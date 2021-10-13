@@ -44,6 +44,7 @@ public class home extends javax.swing.JFrame {
         setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         setUndecorated(true);
 
+        jButton2.setBackground(new java.awt.Color(51, 255, 51));
         jButton2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jButton2.setText("Add New Patient Record");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
